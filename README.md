@@ -1,4 +1,4 @@
-# Project - Amazon Fine Food Reviews Sentiment Analysis
+# Amazon Fine Food Reviews Sentiment Analysis
 
 ### Project Overview
 
@@ -61,4 +61,5 @@ You will also need to have software installed to run and execute an iPython Note
 
 We recommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
+### Code
 Each subdirectory contains code for respective algorithm. Refer to the README.md file in each sub-directory for details on model.
